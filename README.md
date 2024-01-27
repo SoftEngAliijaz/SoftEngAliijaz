@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SeAliijaz)
 
-- - 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SoftEngAliijaz)
+- 👨‍💻 All of my projects are available at [https://github.com/SoftEngAliijaz](https://github.com/SoftEngAliijaz)
 
 - 💬 Ask me about **Flutter, Firebase, Front-End, Back-End**
 
