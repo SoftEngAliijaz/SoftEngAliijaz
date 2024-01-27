@@ -11,13 +11,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Flutter / Back-end Stuff**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SeAliijaz)
 
-- 💬 Ask me about **Flutter, Firebase, Python**
+- - 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SoftEngAliijaz)
+
+- 💬 Ask me about **Flutter, Firebase, Front-End, Back-End**
 
 - 📫 How to reach me **SoftEng.Aliijaz@gmail.com**
 
