@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Flutter / Back-end Stuff**
+- 🤝 I’m looking for help with **Flutter/Back-End Stuff**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SeAliijaz)
 
