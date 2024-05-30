@@ -15,11 +15,13 @@
 
 - 🤝 Seeking assistance with **Flutter and Back-End Development**
 
-- 👨‍💻 Explore my projects on GitHub: [https://github.com/SeAliijaz](https://github.com/SeAliijaz) and [https://github.com/SoftEngAliijaz](https://github.com/SoftEngAliijaz)
+- 👨‍💻 Explore my projects on GitHub: [https://github.com/SoftEngAliijaz](https://github.com/SoftEngAliijaz)
 
 - 💬 Ask me about **Flutter, Firebase, Front-End, Back-End**
 
 - 📫 Reach out to me via email: **SoftEng.Aliijaz@gmail.com**
+
+- 📫 Reach out to me via email: **TechSolNexa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
