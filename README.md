@@ -15,7 +15,7 @@
 
 - 🤝 Seeking assistance with **Flutter and Back-End Development**
 
-- 👨‍💻 Explore my projects on GitHub: [https://github.com/SoftEngAliijaz](https://github.com/SoftEngAliijaz)
+- 👨‍💻 Explore my projects.
 
 - 💬 Ask me about **Flutter, Firebase, Front-End, Back-End**
 
@@ -24,14 +24,10 @@
 - 📫 Reach out to me via email: **TechSolNexa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Add your social media links here -->
-</p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Add your preferred languages and tools here -->
-</p>
+<p align="left"> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=softengaliijaz&show_icons=true&locale=en&layout=compact" alt="softengaliijaz" /></p>
 
